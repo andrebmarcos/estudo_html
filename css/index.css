@@ -1,0 +1,14 @@
+
+header{
+    background-color: #7C5E99;
+}
+
+a {
+    color: #FFFFFF;
+    font-size: 20px;
+    font-family: "Fira Code", "Arial", Helvatica, sans-serif;
+    font-weight: 500;
+    text-decoration: none;
+    margin-right: 30px;
+
+}
