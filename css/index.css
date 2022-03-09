@@ -2,12 +2,21 @@
 header{
     display: flex;
     justify-content: space-between;
-    background-color: #7C5E99;
+    background-color: #56a292;
     border-bottom:10px solid black;
     padding: 10px 20px;
-    image-resolution:;
     
 }
+
+h1{
+display: inline-flex;
+font-family: 'Press Start 2P';
+color: #fff;
+text-shadow: 5px 5px 0px #000;
+align-items: center;
+
+}
+
 nav{
     text-align:right;
 
@@ -42,5 +51,25 @@ a:before{
     box-shadow: 5px 5px 0 black;
     padding: 18px 20px;
     margin-right: 0;
+    cursor: pointer;
+}
+
+
+
+
+
+
+.buttonBanner {
+    display: inline-flex;
+    background-color: #F25A70;
+    height: 30px;
+    box-shadow: 5px 5px 0 black;
+    justify-content: space-between;
+    padding: 18px 20px;
+    margin-right: 300px;
+    margin-top: 340px;
+    
+    
+    
 }
 
