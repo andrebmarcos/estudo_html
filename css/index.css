@@ -44,15 +44,7 @@ a:before{
     vertical-align: middle;
 }
 
-#button {
-    display: inline-block;
-    background-color: #F25A70;
-    box-shadow: 5px 5px 0 black;
-    padding: 18px 20px;
-    margin-right: 0;
-    cursor: pointer;
-    transition: transform 100ms linear;
-}
+
 
 #button:hover{
     transform: scale(1.1);
@@ -65,6 +57,7 @@ a:before{
 #titulo{
     color: #F25A70;
     font-size: 35px ;
+    margin-bottom: 24px;
 
 }
 #subtitulo{
@@ -72,17 +65,7 @@ a:before{
     font-size: 25px;
 }
 
-.buttonBanner {
-    display: inline-flex;
-    background-color: #F25A70;
-    height: 30px;
-    box-shadow: 5px 5px 0 black;
-    justify-content: space-between;
-    padding: 18px 20px;
-    margin-right: 300px;
-    margin-top: -px;
-       
-}
+
 
 
 
